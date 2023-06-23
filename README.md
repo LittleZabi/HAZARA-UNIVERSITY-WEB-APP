@@ -1,3 +1,7 @@
+This is a web application for Hazara University, specifically designed for the Battagram campus. It is built using Svelte Kit, and we encourage contributions to improve the application further. Please note that access to this application is limited to students of Hazara University Battagram campus. The primary goal of this application is for educational and learning purposes.
+
+Feel free to contribute and help enhance this web application for the benefit of the Hazara University community.
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
